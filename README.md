@@ -49,6 +49,7 @@ studies:   DAW — Desarrollo de Aplicaciones Web
 ![PHP](https://img.shields.io/badge/PHP-fff8fb?style=for-the-badge&logo=php&logoColor=e7afc6)
 ![Java](https://img.shields.io/badge/Java-fff8fb?style=for-the-badge&logo=openjdk&logoColor=e7afc6)
 ![Node.js](https://img.shields.io/badge/Node.js-fff8fb?style=for-the-badge&logo=node.js&logoColor=e7afc6)
+![XAMPP](https://img.shields.io/badge/XAMPP-fff8fb?style=for-the-badge&logo=xampp&logoColor=e7afc6)
 ![Express](https://img.shields.io/badge/Express-fff8fb?style=for-the-badge&logo=express&logoColor=e7afc6)
 ![MVC](https://img.shields.io/badge/MVC-fff8fb?style=for-the-badge&logoColor=e7afc6)
 ![Sessions & Cookies](https://img.shields.io/badge/Sessions_&_Cookies-fff8fb?style=for-the-badge&logoColor=e7afc6)
