@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://i.pinimg.com/originals/19/f6/c6/19f6c6d3494885d7ffb99e3568c63888.gif" width="60%" alt="banner"/>
+<img src="https://i.pinimg.com/originals/19/f6/c6/19f6c6d3494885d7ffb99e3568c63888.gif" width="80%" alt="banner"/>
 
 </div>
 
