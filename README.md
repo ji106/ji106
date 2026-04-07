@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=e1a7d0&center=true&vCenter=true&width=600&lines=Hi+there%2C+i'm+Jiaxin+%F0%9F%8E%80;DAW+student+%26+web+dev;always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=e7afc6&center=true&vCenter=true&width=600&lines=Hi+there%2C+i'm+Jiaxin+%F0%9F%8E%80;DAW+student+%26+web+dev;always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -34,12 +34,12 @@ studies:   DAW — Desarrollo de Aplicaciones Web
 
 **languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-e1a7d0?style=for-the-badge&logo=html5&logoColor=e1a7d0)
-![CSS3](https://img.shields.io/badge/CSS3-e1a7d0?style=for-the-badge&logo=css3&logoColor=7a0033)
-![JavaScript](https://img.shields.io/badge/JavaScript-e1a7d0?style=for-the-badge&logo=javascript&logoColor=7a0033)
-![TypeScript](https://img.shields.io/badge/TypeScript-e1a7d0?style=for-the-badge&logo=typescript&logoColor=7a0033)
-![PHP](https://img.shields.io/badge/PHP-e1a7d0?style=for-the-badge&logo=php&logoColor=7a0033)
-![Java](https://img.shields.io/badge/Java-e1a7d0?style=for-the-badge&logo=openjdk&logoColor=7a0033)
+![HTML5](https://img.shields.io/badge/HTML5-ffe6f0?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-ffe6f0?style=for-the-badge&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffe6f0?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-ffe6f0?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-ffe6f0?style=for-the-badge&logo=php&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-ffe6f0?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 
 **frameworks & tools**
 
@@ -63,7 +63,7 @@ studies:   DAW — Desarrollo de Aplicaciones Web
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ji106&background=fff5f8&ring=e75480&fire=c0306a&currStreakLabel=c0306a&sideLabels=c0306a&border=ffb3c6&border_radius=12&dates=5a1a3a&sideNums=e75480&currStreakNum=e75480"/>
+<img src="https://streak-stats.demolab.com?user=ji106&background=ffe6f0&ring=e7afc6&fire=e7afc6&currStreakLabel=e7afc6&sideLabels=e7afc6&border=e7afc6&border_radius=12&dates=e7afc6&sideNums=e7afc6&currStreakNum=e7afc6"/>
 
 </div>
 
@@ -85,7 +85,7 @@ studies:   DAW — Desarrollo de Aplicaciones Web
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380"/>
+<img src="https://i.pinimg.com/originals/51/1e/80/511e801c7e86889f580dfce107e68e3e.gif" width="380"/>
 
 <br/><br/>
 
