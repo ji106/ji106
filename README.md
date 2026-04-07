@@ -33,8 +33,6 @@ studies:   DAW — Desarrollo de Aplicaciones Web
 
 ### 🌸 tech stack
 
-### 🌸 tech stack
-
 **frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-fff8fb?style=for-the-badge&logo=html5&logoColor=e7afc6)
