@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=e7afc6&center=true&vCenter=true&width=600&lines=Hi+there%2C+i'm+Jiaxin+%F0%9F%8E%80;DAW+student+%26+web+dev;always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=e7afc6&center=true&vCenter=true&width=600&lines=Hi+there%2C+i'm+Jiaxin;DAW+student+%26+web+dev;always+learning+something+new" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://i.pinimg.com/originals/19/f6/c6/19f6c6d3494885d7ffb99e3568c63888.gif" width="100%" alt="banner"/>
+<img src="https://i.pinimg.com/originals/19/f6/c6/19f6c6d3494885d7ffb99e3568c63888.gif" width="60%" alt="banner"/>
 
 </div>
 
@@ -16,6 +16,7 @@
 
 ```yaml
 name:      Jiaxin
+nickname:  Jia
 username:  ji106
 location:  Spain 🇪🇸
 studies:   DAW — Desarrollo de Aplicaciones Web
@@ -34,25 +35,26 @@ studies:   DAW — Desarrollo de Aplicaciones Web
 
 **languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-ffe6f0?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-ffe6f0?style=for-the-badge&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffe6f0?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-ffe6f0?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/PHP-ffe6f0?style=for-the-badge&logo=php&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-ffe6f0?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-fff8fb?style=for-the-badge&logo=html5&logoColor=e7afc6)
+![CSS3](https://img.shields.io/badge/CSS3-fff8fb?style=for-the-badge&logo=css3&logoColor=e7afc6)
+![JavaScript](https://img.shields.io/badge/JavaScript-fff8fb?style=for-the-badge&logo=javascript&logoColor=e7afc6)
+![TypeScript](https://img.shields.io/badge/TypeScript-fff8fb?style=for-the-badge&logo=typescript&logoColor=e7afc6)
+![PHP](https://img.shields.io/badge/PHP-fff8fb?style=for-the-badge&logo=php&logoColor=e7afc6)
+![Java](https://img.shields.io/badge/Java-fff8fb?style=for-the-badge&logo=openjdk&logoColor=e7afc6)
 
 **frameworks & tools**
 
-![React](https://img.shields.io/badge/React-fce4ec?style=for-the-badge&logo=react&logoColor=c0306a)
-![MySQL](https://img.shields.io/badge/MySQL-fce4ec?style=for-the-badge&logo=mysql&logoColor=c0306a)
-![Leaflet](https://img.shields.io/badge/Leaflet-fce4ec?style=for-the-badge&logo=leaflet&logoColor=c0306a)
-![Git](https://img.shields.io/badge/Git-fce4ec?style=for-the-badge&logo=git&logoColor=c0306a)
-![VS Code](https://img.shields.io/badge/VS_Code-fce4ec?style=for-the-badge&logo=visualstudiocode&logoColor=c0306a)
+![React](https://img.shields.io/badge/React-fff8fb?style=for-the-badge&logo=react&logoColor=e7afc6)
+![MySQL](https://img.shields.io/badge/MySQL-fff8fb?style=for-the-badge&logo=mysql&logoColor=e7afc6)
+![Leaflet](https://img.shields.io/badge/Leaflet-fff8fb?style=for-the-badge&logo=leaflet&logoColor=e7afc6)
+![Git](https://img.shields.io/badge/Git-fff8fb?style=for-the-badge&logo=git&logoColor=e7afc6)
+![VS Code](https://img.shields.io/badge/VS_Code-fff8fb?style=for-the-badge&logo=visualstudiocode&logoColor=e7afc6)
 
 ---
 
 ### 📊 github stats
 
+<!--
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ji106&show_icons=true&bg_color=fff5f8&title_color=c0306a&icon_color=e75480&text_color=5a1a3a&border_color=ffb3c6&border_radius=12" height="165"/>
@@ -60,15 +62,17 @@ studies:   DAW — Desarrollo de Aplicaciones Web
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji106&layout=compact&bg_color=fff5f8&title_color=c0306a&text_color=5a1a3a&border_color=ffb3c6&border_radius=12" height="165"/>
 
 </div>
+-->
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ji106&background=ffe6f0&ring=e7afc6&fire=e7afc6&currStreakLabel=e7afc6&sideLabels=e7afc6&border=e7afc6&border_radius=12&dates=e7afc6&sideNums=e7afc6&currStreakNum=e7afc6"/>
+<img src="https://streak-stats.demolab.com?user=ji106&background=ffffff&ring=e7afc6&fire=e7afc6&currStreakLabel=e7afc6&sideLabels=e7afc6&border=d8d0d3&border_radius=12&dates=e7afc6&sideNums=e7afc6&currStreakNum=e7afc6"/>
 
 </div>
 
 ---
 
+<!--
 ### 🐍 contribution snake
 
 <div align="center">
@@ -82,6 +86,7 @@ studies:   DAW — Desarrollo de Aplicaciones Web
 </div>
 
 ---
+-->
 
 <div align="center">
 
