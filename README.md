@@ -33,22 +33,64 @@ studies:   DAW — Desarrollo de Aplicaciones Web
 
 ### 🌸 tech stack
 
-**languages**
+### 🌸 tech stack
+
+**frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-fff8fb?style=for-the-badge&logo=html5&logoColor=e7afc6)
 ![CSS3](https://img.shields.io/badge/CSS3-fff8fb?style=for-the-badge&logo=css3&logoColor=e7afc6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-fff8fb?style=for-the-badge&logo=javascript&logoColor=e7afc6)
 ![TypeScript](https://img.shields.io/badge/TypeScript-fff8fb?style=for-the-badge&logo=typescript&logoColor=e7afc6)
+![React](https://img.shields.io/badge/React-fff8fb?style=for-the-badge&logo=react&logoColor=e7afc6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-fff8fb?style=for-the-badge&logo=bootstrap&logoColor=e7afc6)
+![jQuery](https://img.shields.io/badge/jQuery-fff8fb?style=for-the-badge&logo=jquery&logoColor=e7afc6)
+![SweetAlert2](https://img.shields.io/badge/SweetAlert2-fff8fb?style=for-the-badge&logoColor=e7afc6)
+
+**backend**
+
 ![PHP](https://img.shields.io/badge/PHP-fff8fb?style=for-the-badge&logo=php&logoColor=e7afc6)
 ![Java](https://img.shields.io/badge/Java-fff8fb?style=for-the-badge&logo=openjdk&logoColor=e7afc6)
+![Node.js](https://img.shields.io/badge/Node.js-fff8fb?style=for-the-badge&logo=node.js&logoColor=e7afc6)
+![Express](https://img.shields.io/badge/Express-fff8fb?style=for-the-badge&logo=express&logoColor=e7afc6)
+![MVC](https://img.shields.io/badge/MVC-fff8fb?style=for-the-badge&logoColor=e7afc6)
+![Sessions & Cookies](https://img.shields.io/badge/Sessions_&_Cookies-fff8fb?style=for-the-badge&logoColor=e7afc6)
+![Authentication](https://img.shields.io/badge/Authentication-fff8fb?style=for-the-badge&logoColor=e7afc6)
+![Moodle](https://img.shields.io/badge/Moodle-fff8fb?style=for-the-badge&logo=moodle&logoColor=e7afc6)
+![Composer](https://img.shields.io/badge/Composer-fff8fb?style=for-the-badge&logo=composer&logoColor=e7afc6)
 
-**frameworks & tools**
+**apis & data**
 
-![React](https://img.shields.io/badge/React-fff8fb?style=for-the-badge&logo=react&logoColor=e7afc6)
-![MySQL](https://img.shields.io/badge/MySQL-fff8fb?style=for-the-badge&logo=mysql&logoColor=e7afc6)
+![AJAX](https://img.shields.io/badge/AJAX-fff8fb?style=for-the-badge&logo=javascript&logoColor=e7afc6)
+![Fetch API](https://img.shields.io/badge/Fetch_API-fff8fb?style=for-the-badge&logo=javascript&logoColor=e7afc6)
+![JSON](https://img.shields.io/badge/JSON-fff8fb?style=for-the-badge&logo=json&logoColor=e7afc6)
+![MockAPI](https://img.shields.io/badge/MockAPI-fff8fb?style=for-the-badge&logoColor=e7afc6)
+![GeoJSON](https://img.shields.io/badge/GeoJSON-fff8fb?style=for-the-badge&logo=json&logoColor=e7afc6)
+
+**maps**
+
 ![Leaflet](https://img.shields.io/badge/Leaflet-fff8fb?style=for-the-badge&logo=leaflet&logoColor=e7afc6)
+![GeoJSON](https://img.shields.io/badge/GeoJSON-fff8fb?style=for-the-badge&logo=json&logoColor=e7afc6)
+
+**databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-fff8fb?style=for-the-badge&logo=mysql&logoColor=e7afc6)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-fff8fb?style=for-the-badge&logo=phpmyadmin&logoColor=e7afc6)
+![Entity–Relationship](https://img.shields.io/badge/Entity--Relationship-fff8fb?style=for-the-badge&logoColor=e7afc6)
+
+**design & media**
+
+![Figma](https://img.shields.io/badge/Figma-fff8fb?style=for-the-badge&logo=figma&logoColor=e7afc6)
+![Aseprite](https://img.shields.io/badge/Aseprite-fff8fb?style=for-the-badge&logo=aseprite&logoColor=e7afc6)
+![Godot](https://img.shields.io/badge/Godot_Engine-fff8fb?style=for-the-badge&logo=godotengine&logoColor=e7afc6)
+
+**devops & tools**
+
 ![Git](https://img.shields.io/badge/Git-fff8fb?style=for-the-badge&logo=git&logoColor=e7afc6)
 ![VS Code](https://img.shields.io/badge/VS_Code-fff8fb?style=for-the-badge&logo=visualstudiocode&logoColor=e7afc6)
+![Cursor](https://img.shields.io/badge/Cursor-fff8fb?style=for-the-badge&logoColor=e7afc6)
+![Docker](https://img.shields.io/badge/Docker-fff8fb?style=for-the-badge&logo=docker&logoColor=e7afc6)
+![Render](https://img.shields.io/badge/Render-fff8fb?style=for-the-badge&logo=render&logoColor=e7afc6)
+![UML](https://img.shields.io/badge/UML-fff8fb?style=for-the-badge&logoColor=e7afc6)
 
 ---
 
