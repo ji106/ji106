@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=E75480&center=true&vCenter=true&width=600&lines=hi+there%2C+i'm+Jiaxin+%F0%9F%8E%80;DAW+student+%26+web+dev;always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=e1a7d0&center=true&vCenter=true&width=600&lines=Hi+there%2C+i'm+Jiaxin+%F0%9F%8E%80;DAW+student+%26+web+dev;always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="banner"/>
+<img src="https://i.pinimg.com/originals/19/f6/c6/19f6c6d3494885d7ffb99e3568c63888.gif" width="100%" alt="banner"/>
 
 </div>
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="180"/>
+<img align="right" src="https://i.pinimg.com/originals/f3/69/b7/f369b7160fc4a8aa7c4a3f7a5bc475a5.gif" width="180"/>
 
 ### 🎀 about me
 
@@ -19,10 +19,9 @@ name:      Jiaxin
 username:  ji106
 location:  Spain 🇪🇸
 studies:   DAW — Desarrollo de Aplicaciones Web
-status:    internship 💼
 ```
 
-- 🌱 currently learning **React & TypeScript**
+- 🌱 currently learning **Java & Angular**
 - 💻 passionate about building clean web experiences
 - 🎧 music + coding = perfect combo
 - ✨ always curious, always creating
@@ -35,12 +34,12 @@ status:    internship 💼
 
 **languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-ffb3c6?style=for-the-badge&logo=html5&logoColor=7a0033)
-![CSS3](https://img.shields.io/badge/CSS3-ffb3c6?style=for-the-badge&logo=css3&logoColor=7a0033)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffb3c6?style=for-the-badge&logo=javascript&logoColor=7a0033)
-![TypeScript](https://img.shields.io/badge/TypeScript-ffb3c6?style=for-the-badge&logo=typescript&logoColor=7a0033)
-![PHP](https://img.shields.io/badge/PHP-ffb3c6?style=for-the-badge&logo=php&logoColor=7a0033)
-![Java](https://img.shields.io/badge/Java-ffb3c6?style=for-the-badge&logo=openjdk&logoColor=7a0033)
+![HTML5](https://img.shields.io/badge/HTML5-e1a7d0?style=for-the-badge&logo=html5&logoColor=e1a7d0)
+![CSS3](https://img.shields.io/badge/CSS3-e1a7d0?style=for-the-badge&logo=css3&logoColor=7a0033)
+![JavaScript](https://img.shields.io/badge/JavaScript-e1a7d0?style=for-the-badge&logo=javascript&logoColor=7a0033)
+![TypeScript](https://img.shields.io/badge/TypeScript-e1a7d0?style=for-the-badge&logo=typescript&logoColor=7a0033)
+![PHP](https://img.shields.io/badge/PHP-e1a7d0?style=for-the-badge&logo=php&logoColor=7a0033)
+![Java](https://img.shields.io/badge/Java-e1a7d0?style=for-the-badge&logo=openjdk&logoColor=7a0033)
 
 **frameworks & tools**
 
