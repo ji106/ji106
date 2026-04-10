@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" src="https://i.pinimg.com/originals/f3/69/b7/f369b7160fc4a8aa7c4a3f7a5bc475a5.gif" width="180"/>
+<img align="right" src="https://i.pinimg.com/originals/f3/69/b7/f369b7160fc4a8aa7c4a3f7a5bc475a5.gif" width="150"/>
 
 ### 🎀 about me
 
