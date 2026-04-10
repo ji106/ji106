@@ -135,10 +135,10 @@ studies:   DAW — Desarrollo de Aplicaciones Web
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=ji106&color=ff69b4&style=for-the-badge&label=visitors)
+![](https://komarev.com/ghpvc/?username=ji106&color=e7afc6&style=for-the-badge&label=visitors)
 
 <br/>
 
-*thanks for visiting! 🎀*
+*thanks for visiting!*
 
 </div>
